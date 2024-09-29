@@ -1,0 +1,81 @@
+[
+  {
+    "idEscritor": 1,
+    "apellido": "García",
+    "nombre": "Gabriel",
+    "dni": 12345678,
+    "libros": [
+      {
+        "nombre": "Cien Años de Soledad",
+        "aniopublicacion": 1967,
+        "editorial": "Sudamericana"
+      },
+      {
+        "nombre": "1984",
+        "aniopublicacion": 1949,
+        "editorial": "Secker & Warburg"
+      },
+      {
+        "nombre": "Orgullo y Prejuicio",
+        "aniopublicacion": 1813,
+        "editorial": "T. Egerton"
+      },
+      {
+        "nombre": "hus hus",
+        "aniopublicacion": 1813,
+        "editorial": "T. Egerton"
+      },
+      {
+        "nombre": "el poder ",
+        "aniopublicacion": 2001,
+        "editorial": "Secker & Warburg"
+      }
+    ]
+  },
+  {
+    "idEscritor": 2,
+    "apellido": "Orwell",
+    "nombre": "George",
+    "dni": 87654321,
+    "libros": [
+      {
+        "nombre": "los arboles mueren de pie",
+        "aniopublicacion": 2017,
+        "editorial": "Sudamericana"
+      },
+      {
+        "nombre": "mueren de pie",
+        "aniopublicacion": 2017,
+        "editorial": "Sudamericana"
+      },
+      {
+        "nombre": "ropa sucia",
+        "aniopublicacion": 2017,
+        "editorial": "Sudamericana"
+      }
+    ]
+  },
+  {
+    "idEscritor": 3,
+    "apellido": "Austen",
+    "nombre": "Jane",
+    "dni": 13579246,
+    "libros": [
+      {
+        "nombre": "fredy Cruger",
+        "aniopublicacion": 1813,
+        "editorial": "T. Egerton"
+      },
+      {
+        "nombre": "el fantasma dela opera ",
+        "aniopublicacion": 2001,
+        "editorial": "Secker & Warburg"
+      },
+      {
+        "nombre": "peter pan",
+        "aniopublicacion": 1813,
+        "editorial": "T. Egerton"
+      }
+    ]
+  }
+]
